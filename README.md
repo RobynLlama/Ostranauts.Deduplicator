@@ -28,4 +28,4 @@ Ostranauts De-duplicator is a BepInEx plugin that runs just after you load your 
 
 ## Whitelist
 
-As of the most recent release, only `DcAging` is whitelisted as its the only condition I've seen that seems to natural exist in multiple forms without issue.
+As of the most recent release, only `DcAging` is whitelisted as its the only condition I've seen that seems to exist in multiple forms without issue.
