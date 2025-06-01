@@ -1,14 +1,15 @@
 ---
 name: Condition Heuristic Issue
-about: Report an issue with the Ostranauts De-Duplicator
+about: Report an issue with the Ostranauts De-Duplicator condition removal heuristic or whitelist
 title: "(Heuristic) Condition Issue"
 labels: bug, condition
-assignees: ''
+assignees: 'RobynLlama'
 
 ---
 
-## Problem Type
+## Problem Type (Check one)
 
+Select one of these two by filling the brackets with an `x`
 - [ ] A condition was removed that should not have been
 - [ ] A condition was not removed that should have been
 
